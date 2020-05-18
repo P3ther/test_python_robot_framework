@@ -5,7 +5,7 @@ Documentation   Page containg keywords and variables for user handling
 ${User Menu}   //app-user-menu
 ${Browser}        Chrome
 ${URL}      http://bd.metait.cz/
-${Valid Email}    peter.sirotnak@zoho.com
+${Valid Email} 
 ${Old Password Value}    testtest
 ${New Password Value}    testtest1
 ${Login Button}    //button[contains(text(),'Login')]
