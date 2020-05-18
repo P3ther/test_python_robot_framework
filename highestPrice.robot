@@ -12,7 +12,7 @@ ${EMPTY SHOPPING CART}    Prázdný košík
 ***Test Cases***
 Highest Price
     Open Browser    about:blank    ${BROWSER}
-    Set Window Size    1440    900
+    Set Window Size    1920   990
     Go To    ${URL}
     Title Should Be    CZC.cz - rozumíme vám i elektronice
     Mouse Over    //*[@class="main-menu__dep"][3]
